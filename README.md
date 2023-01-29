@@ -1,11 +1,13 @@
 <h1 align="center"> Hello! I am Benjamin. 🔥 </h1> 
-<h3 align="center"> Davit Veranyan</h3>
+<h3 align="center"> Senior Streaming & Full-Stack Engineer </h3>
 
-# Sections 📚
+# My Skills 📚
 
-✔️ Clone and Use\
-✔️ How to migrate jpegoptim to FFmpeg, step by step \
-✔️ Contact me
+✔️ Program language: C/C++, Java, Swift/Flutter, JS/TS\
+✔️ Cloud Service: AWS, Google Cloud Platform, Azure \
+✔️ Video SDK: FFmpeg, GStreamer \
+✔️ Video Protocol: HLS, RTMP, RTSP, RTP \
+✔️ Video Conferencing: WebRTC \
 
 
 # Clone and Use 📋
