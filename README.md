@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! I am Cody. 🔥 </h1> 
+<h1 align="center"> Hello! I am Benjamin. 🔥 </h1> 
 <h3 align="center"> Senior Streaming & Full-Stack Engineer </h3>
 
 # My Skills 📚
