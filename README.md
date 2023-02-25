@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! I am Benjamin. 🔥 </h1> 
+<h1 align="center"> Hello, Everybody! 🔥 </h1> 
 <h3 align="center"> Senior Streaming & Full-Stack Engineer </h3>
 
 # My Skills 📚
@@ -11,4 +11,4 @@
 
 # Contact me - kindDev0813 ✨
 
-    BenjaminTelford0813@gmail.com
+    kindDev813@gmail.com
