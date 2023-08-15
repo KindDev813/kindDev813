@@ -8,7 +8,3 @@
 ✔️ Video SDK: FFmpeg, GStreamer \
 ✔️ Video Protocol: HLS, RTMP, RTSP, RTP \
 ✔️ Video Conferencing: WebRTC, Twilio, Agora, Asterisk
-
-# Contact me - kindDev0813 ✨
-
-    kindDev813@gmail.com
