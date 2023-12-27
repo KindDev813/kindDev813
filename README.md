@@ -3,7 +3,7 @@
 
 # My Skills & Work experience 📚
 
-✔️ Had extensive experience in Video converting such as Video Encoding/Decoding, Muxing/Demuxing in so many projects using FFmpeg/GStreamer./
+✔️ Had extensive experience in Video converting such as Video Encoding/Decoding, Muxing/Demuxing in so many projects using FFmpeg/GStreamer.\
 ✔️ Also, I am familar with different kinds of TV app like IPTV/Smart TV/Apple TV/Android TV/Samsung etc.
 ✔️ As implemented Nginx-RTMP(RTSP) server, I had a good experience in Video Streaming Protocols such as HLS/RTMP/RTSP/RTP/MPEG-DASH
 ✔️ Completed so many project like face detection that contains Streaming(CCTV/IP/PTZ camera) and AI/ML tech(Nvidia DeepStream SDK, Jetson, YOLO, PyTorch, Tensorflow) - Object Detection, Face Recognition, Movement Detection.
